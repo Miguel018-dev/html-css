@@ -34,7 +34,7 @@ body{
 }
     }
 /* Aparelho deitado (landscape) */
-@media screen an (orientation: landscape) {
+@media screen and (orientation: landscape) {
     
 body {
     background-image: url(../imagens/cev-landscape.jpg);
